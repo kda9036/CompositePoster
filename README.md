@@ -6,7 +6,15 @@ Course: New Media Design Digital Survey I
 
 # Project Description
 
-Take two or more images and combine them using masking and other techniques to create a new image.
+Create a vector based illustration in Adobe IIlustrator by manually tracing a source image composed from
+multiple photographic sources used as a template.
+
+Begin by combining elements from several images into a single composition in Photoshop. Use masking
+to isolate relevant areas and use layers to create your ideal composition.
+
+Place your composite image into Illustrator and create the layered elements of your image.
+
+You must include a limited amount of text in your illustration.  Create duplicate text layers and convert text to outline before submitting final art.
 
 # Technologies / Software
 
