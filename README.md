@@ -6,7 +6,7 @@ Course: New Media Design Digital Survey I
 
 # Project Description
 
-Create a vector based illustration in Adobe IIlustrator by manually tracing a source image composed from
+Create a vector-based illustration in Adobe Illustrator by manually tracing a source image composed from
 multiple photographic sources used as a template.
 
 Begin by combining elements from several images into a single composition in Photoshop. Use masking
